@@ -1,0 +1,1 @@
+/mnt/c/Users/lorra/Documents/GitHub\ solana/C3_Comets_Balea_Lorena/C4/hello-worlds/target/debug/hello-worlds: /mnt/c/Users/lorra/Documents/GitHub\ solana/C3_Comets_Balea_Lorena/C4/hello-worlds/src/main.rs
