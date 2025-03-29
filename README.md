@@ -9,10 +9,10 @@ Below is the list of course modules and their current status:
 
 | Course | Topic | Status |
 |--------|-------------------------------|------|
-| **Course 1** | Cryptography, the network, transactions | 🚧 WIP |
+| **Course 1** | Cryptography, the network, transactions | ✅ |
 | **Course 2** | Tokens | 🚧 WIP |
 | **Course 3** | Metadata aka NFTs | 🚧 WIP |
-| **Course 4** | Intro to Rust | ⏳ TODO |
+| **Course 4** | Intro to Rust | ✅ |
 
 ## Repository Structure
 Each course will have its own directory containing:
